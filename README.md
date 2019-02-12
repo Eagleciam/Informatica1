@@ -20,3 +20,7 @@ Para correr este proyecto solo necesitará de un navegador web, se debe abrir el 
 
 Dispodrás de 2 objetos con movimiento libre por el tablero, uno de ellos se puede mover on las teclas W,A,S,D y el otro con las flechas de tu teclado, cuando los objetos se encuentren sobrepuestos,
 podrás ver la zona de colisión con un color diferente.
+
+### Diagrama de flujo
+
+![Diagrama de flujo del colisionador](Informatica1/images/yolinux-mime-test.jpeg)
