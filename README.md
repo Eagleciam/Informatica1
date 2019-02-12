@@ -23,4 +23,4 @@ podrás ver la zona de colisión con un color diferente.
 
 ### Diagrama de flujo
 
-![Diagrama de flujo del colisionador](Informatica1/images/yolinux-mime-test.jpeg)
+![Diagrama de flujo del colisionador](/images/yolinux-mime-test.jpeg)
