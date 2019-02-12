@@ -26,3 +26,9 @@ podrás ver la zona de colisión con un color diferente.
 ![Diagrama de flujo del colisionador](
         /images/colision.PNG
       )
+
+### Diagrama UML
+
+![Diagrama de clases del Colisionador](
+        /images/UML.png
+      )
