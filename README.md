@@ -18,5 +18,5 @@ Para correr este proyecto solo necesitará de un navegador web, se debe abrir el 
 
 ### Instrucciones de uso
 
-Dispodrás de 2 objetos con movimiento libre por la pantalla, uno de ellos se puede mover on las teclas W,A,S,D y el otro con las flechas de tu teclado, cuando los objetos se encuentren sobrepuestos,
+Dispodrás de 2 objetos con movimiento libre por el tablero, uno de ellos se puede mover on las teclas W,A,S,D y el otro con las flechas de tu teclado, cuando los objetos se encuentren sobrepuestos,
 podrás ver la zona de colisión con un color diferente.
