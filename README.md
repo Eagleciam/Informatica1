@@ -4,27 +4,27 @@ Repositirio para la asignatura Informatica 1 de la Esp Ingenieria de Software
 
 # Project Title
 
-Proyecto 1: Dtector de colisión de objetos
+Proyecto 1: Dtector de colisiï¿½n de objetos
 
 ## Integrantes
 
-	César Alarcón
+	Cï¿½sar Alarcï¿½n
 	Yhon Esteves
 	Esteban Barrios
 
 ## Getting Started
 
-Para correr este proyecto solo necesitará de un navegador web, se debe abrir el archivo index.html y podrá comenzar a probar el proyecto
+Para correr este proyecto solo necesitarï¿½ de un navegador web, se debe abrir el archivo index.html y podrï¿½ comenzar a probar el proyecto
 
 ### Instrucciones de uso
 
-Dispodrás de 2 objetos con movimiento libre por el tablero, uno de ellos se puede mover on las teclas W,A,S,D y el otro con las flechas de tu teclado, cuando los objetos se encuentren sobrepuestos,
-podrás ver la zona de colisión con un color diferente.
+Dispodrï¿½s de 2 objetos con movimiento libre por el tablero, uno de ellos se puede mover on las teclas W,A,S,D y el otro con las flechas de tu teclado, cuando los objetos se encuentren sobrepuestos,
+podrï¿½s ver la zona de colisiï¿½n con un color diferente.
 
 ### Diagrama de flujo
 
 ![Diagrama de flujo del colisionador](
-        /images/colision.PNG
+        /images/flowDetail.png
       )
 
 ### Diagrama UML
